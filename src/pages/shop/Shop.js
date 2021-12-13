@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import SHOP_DATA from "./shop.data";
 
 import CollectionPreview from "../../components/collection-preview/CollectionPreview";
-// import { idText } from "typescript";
 
 export class Shop extends Component {
   constructor(props) {
